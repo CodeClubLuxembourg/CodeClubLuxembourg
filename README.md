@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CodeClubLuxembourg
+- 👀 I’m interested in coding education, developing educational software, and creating an interactive learning environment.
+- 🌱 I’m currently learning how to extend our reach through online projects, webinars, and collaborations.
+- 💞️ I’m looking to collaborate on educational projects, coding initiatives for children and young adults, and partnerships with schools and other organizations.
+- 📫 How to reach me: You can send an email to coding@codeclub.lu or follow us on codeclub.lu.
